@@ -1,6 +1,6 @@
 {
-  "name": "project_chat_application",
-  "version": "0.1.0",
+  "name": "charcha_mitra",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "query-string": "^6.8.2",
